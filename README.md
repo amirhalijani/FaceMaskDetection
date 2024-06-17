@@ -26,4 +26,3 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/yourusername/FaceMaskDetection.git
-cd FaceMaskDetection
