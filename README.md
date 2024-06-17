@@ -78,3 +78,19 @@ Ensure all dependencies are installed and the necessary model files are download
 Activate your virtual environment.
 
 Run the command provided above to start the video stream and detect face masks in real-time.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+
+OpenCV for providing a robust library for computer vision tasks.
+
+Keras and TensorFlow teams for their powerful deep learning frameworks.
+
+The open-source community for their contributions and support.
