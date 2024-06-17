@@ -51,3 +51,5 @@ You can download them from this <a href="https://github.com/opencv/opencv/tree/m
 
 Ensure you have the trained face mask detector model:
 `trained_model.h5`
+
+You can download it from this <a>link.</a>
