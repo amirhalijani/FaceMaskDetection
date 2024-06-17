@@ -34,3 +34,8 @@ git clone https://github.com/yourusername/FaceMaskDetection.git
 conda create -n mask-detection python=3.8
 conda activate mask-detection
 ```
+
+## Install Dependencies
+```bash
+pip install -r requirements.txt
+```
