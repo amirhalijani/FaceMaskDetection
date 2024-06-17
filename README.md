@@ -45,4 +45,4 @@ pip install -r requirements.txt
 Ensure you have the face detector model files in the `face_detector` directory:
 `deploy.prototxt` & `res10_300x300_ssd_iter_140000.caffemodel`
 
-You can download them from this link.
+You can download them from this <a href="https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector">link.</a>
