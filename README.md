@@ -66,7 +66,13 @@ C:\ProgramData\anaconda3\python.exe mask_detector_video.py
 - **--model**: Path to the trained face mask detector model.
 - **--confidence**: Minimum probability to filter weak detections (default: 0.5).
 
-#### Example Command
+#### Example Command:
 ```bash
 C:\ProgramData\anaconda3\python.exe mask_detector_video.py --face face_detector --model trained_model.h5 --confidence 0.5
 ```
+
+## How to Run the Code
+
+Ensure all dependencies are installed and the necessary model files are downloaded.
+Activate your virtual environment.
+Run the command provided above to start the video stream and detect face masks in real-time.
