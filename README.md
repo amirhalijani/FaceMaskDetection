@@ -74,5 +74,7 @@ C:\ProgramData\anaconda3\python.exe mask_detector_video.py --face face_detector 
 ## How to Run the Code
 
 Ensure all dependencies are installed and the necessary model files are downloaded.
+
 Activate your virtual environment.
+
 Run the command provided above to start the video stream and detect face masks in real-time.
