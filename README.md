@@ -39,3 +39,7 @@ conda activate mask-detection
 ```bash
 pip install -r requirements.txt
 ```
+
+## Download Face Detector Model
+
+Ensure you have the face detector model files in the face_detector directory:
