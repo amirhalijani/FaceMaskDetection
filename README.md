@@ -53,3 +53,13 @@ Ensure you have the trained face mask detector model:
 `trained_model.h5`
 
 You can download it from this <a href="https://github.com/amirhalijani/FaceMaskDetection/blob/main/trained_model.h5">link.</a>
+
+## Usage
+
+To test the project, run the following command (replace the path to Python executable with the location where Anaconda is installed on your system):
+```bash
+C:\ProgramData\anaconda3\python.exe mask_detector_video.py
+```
+
+### Arguments
+`--face`: Path to the face detector directory.
