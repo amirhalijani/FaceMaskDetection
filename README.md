@@ -43,6 +43,4 @@ pip install -r requirements.txt
 ## Download Face Detector Model
 
 Ensure you have the face detector model files in the face_detector directory:
-`deploy.prototxt`\n
-`res10_300x300_ssd_iter_140000.caffemodel`\n
-You can download them from this link.
+`deploy.prototxt` & `res10_300x300_ssd_iter_140000.caffemodel`
