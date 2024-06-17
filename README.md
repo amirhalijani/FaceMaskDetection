@@ -65,3 +65,8 @@ C:\ProgramData\anaconda3\python.exe mask_detector_video.py
 - **--face**: Path to the face detector directory.
 - **--model**: Path to the trained face mask detector model.
 - **--confidence**: Minimum probability to filter weak detections (default: 0.5).
+
+#### Example Command
+```bash
+C:\ProgramData\anaconda3\python.exe mask_detector_video.py --face face_detector --model trained_model.h5 --confidence 0.5
+```
