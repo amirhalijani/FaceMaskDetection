@@ -63,4 +63,4 @@ C:\ProgramData\anaconda3\python.exe mask_detector_video.py
 
 ### Arguments
 - **--face**: Path to the face detector directory.
-`--model:` Path to the trained face mask detector model.
+- *--model*: Path to the trained face mask detector model.
