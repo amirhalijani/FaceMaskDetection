@@ -26,3 +26,9 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/yourusername/FaceMaskDetection.git
+
+## Create a Virtual Environment
+
+```bash
+conda create -n mask-detection python=3.8
+conda activate mask-detection
