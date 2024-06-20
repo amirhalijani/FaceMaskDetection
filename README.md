@@ -25,7 +25,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FaceMaskDetection.git
+git clone https://github.com/amirhalijani/FaceMaskDetection.git
 ```
 
 ## Create a Virtual Environment
